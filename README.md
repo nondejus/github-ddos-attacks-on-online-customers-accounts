@@ -1,1 +1,1 @@
-# github-ddos-attacks-on-customers-accounts
+# github-ddos-attacks-on-online-customers-accounts
